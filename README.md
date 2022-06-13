@@ -17,7 +17,7 @@ Leah Plummer
 
 *   🌍  I'm based in Murfreesboro, TN
 *   ✉️  You can contact me at [leahplumm@gmail.com](mailto:leahplumm@gmail.com)
-*   🧠  I'm learning C#/.NET
+*   🧠  I'm learning JavaScript/CSS/HTML/C#/.NET
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leah-Plummer&show_icons=true&theme=discord_old_blurple)](https://github.com/Leah-Plummer/github-readme-stats) -->
 
